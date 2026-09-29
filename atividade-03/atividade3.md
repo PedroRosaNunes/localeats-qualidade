@@ -11,7 +11,7 @@
 
 | Funcionalidade não incluída | Justificativa |
 |---|---|
-| Fazer pedido | O planejamento foi delimitado às funcionalidades escolhidas pelos dois integrantes da equipe. |
+| Fazer pedido | O planejamento foi delimitado às funcionalidades escolhidas pelos dois integrantes da equipe e ficaria muito parecido com uma atividade anterior. |
 
 ## Abordagem
 | Item | Decisão da equipe | Justificativa |
