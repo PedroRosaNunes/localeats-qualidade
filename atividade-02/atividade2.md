@@ -24,12 +24,12 @@ Não. A qualidade deve ser responsabilidade compartilhada por toda a equipe. O d
 
 **TAREFA 3**
 
-| Atividade de qualidade                | Responsável pelo Produto | Desenvolvedor | QA  | Liderança Técnica |
+| Atividade de qualidade                | Responsável pelo Produto | Desenvolvedor | QA  | DevOps |
 | ------------------------------------- | ------------------------ | ------------- | --- | ----------------- |
 | Definir critérios de aceitação        | A/R                      | C             | C   | I                 |
-| Revisar requisitos                    | A                        | C             | R   | C                 |
-| Implementar a funcionalidade          | I                        | R             | C   | A                 |
-| Revisar o código                      | I                        | R             | C   | A                 |
+| Revisar requisitos                    | A                        | C             | R   | I                 |
+| Implementar a funcionalidade          | I                        | R             | C   | C                 |
+| Revisar o código                      | I                        | R             | C   | C                 |
 | Criar testes unitários                | I                        | R/A           | C   | I                 |
 | Planejar e executar testes do sistema | I                        | C             | R/A | C                 |
 | Registrar e acompanhar defeitos       | I                        | C             | R/A | C                 |
